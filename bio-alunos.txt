@@ -1,3 +1,14 @@
+---
+Nome: Michel Arcanjo
+RA: 824111081
+Curso: Engenharia de Software
+Semestre: 5
+Bairro: Sapopemba
+Se trabalha: Sim
+Objetivo: Terminar o trabalho
+---
+
+---
 Nome: Aluno 1
 RA: 111111
 Curso: Sistemas de Informação
@@ -5,3 +16,24 @@ Semestre: 1
 Bairro: Centro
 Se trabalha: Não trabalho
 Objetivo: Aprender Git
+---
+
+---
+Nome: Aluno 2
+RA: 222222
+Curso: Engenharia de Software
+Semestre: 5
+Bairro: Centro
+Se trabalha: Esse trabalha
+Objetivo: Ser feliz
+---
+
+---
+Nome: Aluno 3
+RA: 333333
+Curso: Sistemas de Informação
+Semestre: 3
+Bairro: Zona Sul
+Se trabalha: Trabalho com suporte
+Objetivo: Ser desenvolvedor
+---
