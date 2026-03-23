@@ -1,0 +1,7 @@
+Nome: Aluno 1
+RA: 111111
+Curso: Sistemas de Informação
+Semestre: 1
+Bairro: Centro
+Se trabalha: Não trabalho
+Objetivo: Aprender Git
