@@ -1,0 +1,8 @@
+
+Nome: Aluno 3
+RA: 333333
+Curso: Sistemas de Informação
+Semestre: 3
+Bairro: Zona Sul
+Se trabalha: Trabalho com suporte
+Objetivo: Ser desenvolvedor
