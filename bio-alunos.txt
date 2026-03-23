@@ -1,0 +1,7 @@
+Nome: Aluno 2
+RA: 222222
+Curso: Engenharia de Software
+Semestre: 5
+Bairro: Centro
+Se trabalha: Esse trabalha
+Objetivo: Ser feliz
