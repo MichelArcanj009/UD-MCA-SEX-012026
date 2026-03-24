@@ -1,3 +1,4 @@
+
 ---
 Nome: Michel Arcanjo
 RA: 824111081
@@ -35,5 +36,8 @@ Curso: Sistemas de Informação
 Semestre: 3
 Bairro: Zona Sul
 Se trabalha: Trabalho com suporte
+<<<<<<< HEAD
 Objetivo: Ser desenvolvedor
 ---
+Objetivo: Ser desenvolvedor
+
